@@ -106,7 +106,7 @@ If you see a PS1 error, follow these steps:
 
 ## For CPU Users Only
 
-1. Open the GPU configuration file:
+1. Open the configuration file:
    ```
    nano ~/rl-swarm/hivemind_exp/configs/gpu/grpo-qwen-2.5-0.5b-deepseek-r1.yaml
    ```
