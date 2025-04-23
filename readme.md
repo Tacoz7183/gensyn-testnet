@@ -78,11 +78,11 @@ RL Swarm is a fully open-source framework developed by GensynAI for building rei
    cd modal-login
    yarn install
    yarn upgrade && yarn add next@latest && yarn add viem@latest
-   cd ..
    ```
 
 4. Start your node:
    ```
+   cd rl-swarm
    ./run_rl_swarm.sh
    ```
 
