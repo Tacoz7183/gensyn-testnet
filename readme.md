@@ -62,7 +62,6 @@ RL Swarm is a fully open-source framework developed by GensynAI for building rei
 
 1. Clone the RL Swarm repository:
    ```
-   cd $HOME
    git clone https://github.com/gensyn-ai/rl-swarm/
    cd rl-swarm
    ```
